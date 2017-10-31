@@ -1,1 +1,22 @@
-'{"key": 1, "data": "value", "accessor": true}'
+{
+  [
+    "name": "Joe",
+    "age": 64
+  ],
+  [
+    "name": "Jim",
+    "age": 32
+  ],
+  [
+    "name": "Bob",
+    "age": 16
+  ],
+  [
+    "name": "Kai",
+    "age": 8
+  ],
+  [
+    "name": "Sai",
+    "age": 4
+  ]
+}
